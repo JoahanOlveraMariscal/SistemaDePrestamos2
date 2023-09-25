@@ -1,0 +1,21 @@
+Nombre,Se puede mantener,Usa potenciadores
+Resistencia,TRUE,TRUE
+Capacitor,TRUE,TRUE
+Fuente DC,FALSE,FALSE
+Osciloscopio,FALSE,FALSE
+Puntas banana-caiman,FALSE,FALSE
+Puntas osciloscopio,FALSE,FALSE
+Arduino,FALSE,FALSE
+Cable Arduino,FALSE,FALSE
+Transistor,TRUE,FALSE
+Puente H,TRUE,FALSE
+Motor DC,FALSE,FALSE
+Diodo,TRUE,FALSE
+LED,TRUE,FALSE
+Push Button,TRUE,FALSE
+Protoboard,TRUE,FALSE
+Switch,TRUE,FALSE
+Multimetro digital,FALSE,FALSE
+Puntas DVM,FALSE,FALSE
+Roseta,FALSE,FALSE
+Clavija,FALSE,FALSE
